@@ -2,7 +2,7 @@ certifi==2019.11.28
 click==7.1.1
 configobj==5.0.6
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 flask-swagger==0.2.14
 flask-swagger-ui==3.25.0
 itsdangerous==1.1.0
